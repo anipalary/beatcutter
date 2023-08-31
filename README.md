@@ -1,4 +1,4 @@
-For creating "but every other beat is missing" thing quickly and simply
+For creating "but every other beat is missing" things quickly and simply
 ![Безымянный](https://github.com/anipalary/beatcutter/assets/60285472/a2bfe443-a0ab-4e22-a5b1-7cd997cda295)
 
 For thigs like this:
